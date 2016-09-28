@@ -1,10 +1,10 @@
 /*
   Delete Node at a given position in a linked list
   Node is defined as
-  struct Node
+  class Node
   {
      int data;
-     struct Node *next;
+     Node next;
   }
 */
 
